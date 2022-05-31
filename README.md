@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm Christopher Frenning, Microsoft employee and hobby open source contributor.
 
-🔭 I’m currently working on ironviper - an OSS project for enthustiast professional photographers to store their camera RAW files (and more) easily and safely in the cloud.
+🔭 I’m currently working on a few JavaScript games to teach my kids how to code.
 
-💬 Ask me about software development on Azure, CI/CD and I know quite a bit about digital image processing. I'm happy to help!
+💬 Ask me about software development on Azure, CI/CD and I know quite a bit about digital image processing, metadata, and search. I'm happy to help!
 
 📫 How to reach me: DM on Twitter @chrfrenning, email me on christopher@frenning.com, or call me on +41 (0) 76 518 0877.
