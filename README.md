@@ -17,10 +17,10 @@ I'm Christopher Frenning, Microsoft employee and hobby open source contributor.
 
 😄 Pronouns: he/him
 
-🌱 I’m currently learning: Evolutionary Algorithms and Convolutional Neural Nets
+🌱 I’m currently learning: Semantic Segmentation and CNNs for Time Series Data (on health data)
 
-🔭 I’m currently working on a few JavaScript games to teach my kids how to code.
+🔭 I’m currently working an open source tool for large-scale text corpus exploration
 
-💬 Ask me about software development on Azure, CI/CD and I know quite a bit about digital image processing, metadata, and search. I'm happy to help!
+💬 Ask me about software development in the cloud - I'm happy to help!
 
 📫 How to reach me: @chph0877 on Discord, email me on christopher@frenning.com, or call me on +41 (0) 76 518 0877.
