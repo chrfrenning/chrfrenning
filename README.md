@@ -17,10 +17,8 @@ I'm Christopher Frenning, Microsoft employee and hobby open source contributor.
 
 😄 Pronouns: he/him
 
-🌱 I’m currently learning: Semantic Segmentation and CNNs for Time Series Data (on health data)
+🌱 I’m currently learning: Using the CLIP model
 
-🔭 I’m currently working an open source tool for large-scale text corpus exploration
-
-💬 Ask me about software development in the cloud - I'm happy to help!
+🔭 I’m currently working on ZenTransfer, an open source tool for pro photographers
 
 📫 How to reach me: @chph0877 on Discord, email me on christopher@frenning.com, or call me on +41 (0) 76 518 0877.
