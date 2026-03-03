@@ -17,8 +17,10 @@ I'm Christopher Frenning, Microsoft employee and hobby open source contributor.
 
 😄 Pronouns: he/him
 
-🌱 I’m currently learning: Using the CLIP model
+⏱️ Work: Sovereignty and Resilience
 
-🔭 I’m currently working on ZenTransfer, an open source tool for pro photographers
+🌱 Research: I’m currently learning: 1D CNNs for medical signal data
+
+🔭 Hobby: I’m currently working on ZenTransfer, an open source tool for pro photographers
 
 📫 How to reach me: @chph0877 on Discord, email me on christopher@frenning.com, or call me on +41 (0) 76 518 0877.
