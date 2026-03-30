@@ -19,7 +19,7 @@ I'm Christopher Frenning, Microsoft employee and hobby open source contributor.
 
 ⏱️ Work: Sovereignty and Resilience
 
-🌱 Research: I’m currently learning: 1D CNNs for medical signal data
+🌱 Research: Machine learning for pediatric sleep apnea diagnosis
 
 🔭 Hobby: I’m currently working on ZenTransfer, an open source tool for pro photographers
 
